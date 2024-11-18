@@ -6,6 +6,7 @@
 -        Whatsapp no: 0712390295;
 -        call  tell:0748441953.
 - ⚡ Fun fact: coding is my hobby ☺️
+-     Buggs are not my friends 
 
 <!---
 kelvinnjugunaBCS/kelvinnjugunaBCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
