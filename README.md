@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelvinnjugunaBCS
 - 👀 I’m interested in cloud engineering, software engineering and machine learning.....
-- 🌱 I’m currently studying computer science 
-- 💞️ I’m looking to collaborate on skillful personel
+- 🌱 I’m currently e student pursuing computer science 
+- 💞️ I’m looking to collaborate with skillful persons
 - 📫 How to reach me
 -        Whatsapp no: 0712390295;
 -        call  tell:0748441953.
