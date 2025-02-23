@@ -1,6 +1,6 @@
 juu- 👋 Hi, I’m @kelvinnjuguna
 - 👀 I’m interested in cloud engineering, software engineering and machine learning.....
-- 🌱 I’m currently e student pursuing computer science 
+- 🌱 computer science 
 - 💞️ I’m looking to collaborate with skillful persons
 - 📫 How to reach me
 -        Whatsapp no: 0712390295;
