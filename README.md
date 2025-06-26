@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I'm currently pursuing **Computer Science**
 - 🔍 I’m interested in **Cloud Engineering**, **Software Development**, and **Machine Learning**
-- 🤝 I’m looking to **collaborate with skillful and passionate developers**
+- 🤝 I’m looking forward to **collaborate with skillful and passionate developers**
 - ⚡ Fun fact: *Coding is my hobby — but bugs? Not my friends! ☺️*
 
 ---
