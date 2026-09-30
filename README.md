@@ -6,15 +6,15 @@
 ### 💡 About Me
 
 - 👨‍🎓 I'm currently a **Computer Science** undergraduate student
-- 🔍 I’m interested in **Cloud Engineering**, **Full-stack Development**, and **AI & Machine Learning**
+- 🔍 Interested in **Cloud Engineering**, **Full-stack Development**, and **AI & Machine Learning**
 - 🤝 I’m looking forward to **collaborate with skillful and passionate developers**
-- ⚡ Fun fact: *Coding is my hobby — but bugs? Not my friends! ☺️*
+- ⚡ Casual Exchange: *Researching extensively on Multilingual NLP system☺️*
 
 ---
 
 ### 📫 Contact Me
 
-- 📱 WhatsApp: [+254712390295](https://wa.me/254748441953)
+- 📱 WhatsApp: [+254748441953](https://wa.me/254748441953)
 - 📞 Phone: 0748 441 953
 - 🌐 LinkedIn: [kelvin-njuguna](https://www.linkedin.com/in/kelvin-njuguna-769085339)
 
