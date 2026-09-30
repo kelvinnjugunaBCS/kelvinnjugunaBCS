@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kelvin Njuguna</h1>
-<h3 align="center"> 💻 Software Engineering | 🤖 Machine Learning Enthusiast</h3>
+<h3 align="center"> 💻 Software Engineer | 🤖 Machine Learning Enthusiast</h3>
 
 ---
 
 ### 💡 About Me
 
-- 👨‍🎓 I'm currently pursuing **Computer Science**
-- 🔍 I’m interested in **Cloud Engineering**, **Software Development**, and **Machine Learning**
+- 👨‍🎓 I'm currently a **Computer Science** undergraduate student
+- 🔍 I’m interested in **Cloud Engineering**, **Full-stack Development**, and **AI & Machine Learning**
 - 🤝 I’m looking forward to **collaborate with skillful and passionate developers**
 - ⚡ Fun fact: *Coding is my hobby — but bugs? Not my friends! ☺️*
 
@@ -14,7 +14,7 @@
 
 ### 📫 Contact Me
 
-- 📱 WhatsApp: [+254712390295](https://wa.me/254712390295)
+- 📱 WhatsApp: [+254712390295](https://wa.me/254748441953)
 - 📞 Phone: 0748 441 953
 - 🌐 LinkedIn: [kelvin-njuguna](https://www.linkedin.com/in/kelvin-njuguna-769085339)
 
