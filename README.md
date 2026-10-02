@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Njuguna</h1>
-<h3 align="center"> 💻 Software Engineer | 🤖 Machine Learning Enthusiast</h3>
+<h3 align="center"> 💻 Software Engineer | 🤖 AI & Machine Learning Enthusiast</h3>
 
 ---
 
@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,git,github,linux,docker,laravel" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,git,github,linux,docker,laravel,express,dart,kotlin" />
 </p>
 
 ---
